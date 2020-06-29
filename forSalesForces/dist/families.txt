@@ -1,0 +1,6 @@
+<electronic>
+phone
+laptop
+<car>
+charger
+DVR

@@ -1,0 +1,37 @@
+6
+Philips E580
+The Philips E580 cell phone is a popular model from the world-famous manufacturer of communications and other equipment.
+electronic
+phone
+4399
+images\\1.png
+Apple iPhone 11 128 GB
+Smartphone Apple iPhone 11 128 GB in a black metal housing has not only a perfect design, but also a perfect technical performance. Thanks to this, the smartphone is a very productive device.
+electronic
+phone
+64999
+images\\2.png
+Acer Nitro 5 AN515-54-58LL
+The advanced hardware and high-quality functional equipment of the Acer Nitro 5 AN515-54-58LL laptop will allow it to leave far behind all its competitors. With this high-performance device, you can dominate games of any genre orientation.
+electronic
+laptop
+53999
+images\\3.png
+charger BB-8981
+The BB 8981 Car Charger is designed to recharge Apple devices. At one end of the cord is the entrance to the cigarette lighter of the car, and at the other there is one Lightning 30 pin connector for connecting to devices.
+car
+charger
+49
+images\\4.png
+charger DEXP CC-XRZ
+The DEXP CC-XRZ car charger is a functional device that allows you to charge your mobile devices, tablets, portable batteries, e-books, headsets and other devices while in the car.
+car
+charger
+140
+images\\5.png
+DVR Digma FreeDrive OJO
+Digma FreeDrive OJO DVR is ready to provide the driver with a record of the traffic situation while driving. For the functioning of the equipment, it is necessary to connect it to the on-board network of the vehicle with a voltage of 12 V.
+car
+DVR
+799
+images\\6.png
